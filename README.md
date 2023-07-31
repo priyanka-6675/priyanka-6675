@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka Vaishnav</h1>
 <h3 align="center">A passionate Frontend developer from India
 </h3>
-<p>I'm a freshman in college with a passion for Open Source and Frontend developerWeb Development. I'm always on the lookout for ways to contribute to open source communities and projects, and I'm determined to become a skilled and influential developer.
+<p>I'm a final year student in college with a passion for Open Source and Frontend developerWeb Development. I'm always on the lookout for ways to contribute to open source communities and projects, and I'm determined to become a skilled and influential developer.
 
 I love learning new programming languages, frameworks, and tools to develop efficient and user-friendly  I enjoy the challenge of problem-solving and have a keen eye for detail.
 
