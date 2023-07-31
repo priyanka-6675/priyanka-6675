@@ -7,9 +7,9 @@ I love learning new programming languages, frameworks, and tools to develop effi
 
 One thing that sets me apart is my enthusiasm for helping others. I believe that collaboration is key to success, and I'm always eager to share my knowledge and lend a hand to others in the tech community.
 
-In my free time, I enjoy attending tech conferences, reading about technology, and experimenting with new projects. I believe that technology has the power to change the world for the better, and I'm excited to be a part of that change.
+ I believe that technology has the power to change the world for the better, and I'm excited to be a part of that change.
 
-I'm confident that my passion, dedication, and willingness to learn will take me far in the world of tech. I can't wait to see what the future holds for me!</p>
+</p>
 <img align="right " width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka-6675&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka-6675" /> </p>
